@@ -1,0 +1,25 @@
+{
+  "name": "multivision",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sean Jun <seanjun21@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "toastr": "^2.1.3",
+    "angular": "^1.5.8",
+    "angular-resource": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
